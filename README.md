@@ -27,5 +27,4 @@ Displays the measured distance in centimeters.
 Team Members
 
 1. Amrutha P
-2. Saniya Mirza# IoT-Projects
-My IoT projects using Raspberry Pi, sensors and Python.
+2. Saniya Mirza
