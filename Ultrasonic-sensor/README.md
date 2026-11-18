@@ -22,7 +22,6 @@ Output
 
 Displays the measured distance in centimeters.
 
-Team Members
 
 Amrutha P
-Saniya Mirza
+
